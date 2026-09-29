@@ -1,0 +1,6 @@
+{
+  "name": "Akin AI",
+  "description": "ระบบ AI อัจฉริยะส่วนตัว ปลดล็อกด้วยรหัสความปลอดภัย รองรับการถามคำถามอิสระ ทฤษฎีรูหนอน คลังความรู้ และเครื่องมือจำลองโค้ด Python",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
